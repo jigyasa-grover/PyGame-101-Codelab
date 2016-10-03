@@ -3,24 +3,24 @@
 
 ## Mac OSX
 
-1. Install package manager preferably Brew if it doesn't exist already
+- Install package manager preferably Brew if it doesn't exist already
 ```
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-2. Install Python (Python 2.7 preferably) via Brew 
+- Install Python (Python 2.7 preferably) via Brew 
 ```
 $ brew install python
 ```
 
-3. Install PyGame 
+- Install PyGame 
 ```
 $ brew install pygame
 ```
 
 ## Linux
 
-1. Install Python (Python 2.7 preferably) if it doesn't exist.
+- Install Python (Python 2.7 preferably) if it doesn't exist.
 
 <br>To avoid compiling yourself, run:
 
@@ -30,7 +30,7 @@ sudo apt-get update
 sudo apt-get install python2.7
 ``` 
 
-2. Install PyGame
+- Install PyGame
 ```
 sudo apt-get install python-pygame
 ```
