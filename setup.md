@@ -21,9 +21,7 @@ $ brew install pygame
 ## Linux
 
 - Install Python (Python 2.7 preferably) if it doesn't exist.
-
 <br>To avoid compiling yourself, run:
-
 ```
 sudo add-apt-repository ppa:fkrull/deadsnakes
 sudo apt-get update
